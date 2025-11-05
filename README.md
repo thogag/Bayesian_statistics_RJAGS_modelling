@@ -143,6 +143,8 @@ The Bayesian mixture model confirms that alternative splicing arises from two di
 
 This supports the hypothesis that most observed alternative splicing events are biologically functional, and that splicing noise is rare and tightly controlled in highly expressed genes.
 
+If you want to see all the results in html format, click [here](https://thogag.github.io/Bayesian_statistics_RJAGS_modelling/Results.html)
+
 
 ## Dependencies
 R packages: `dplyr`, `ggplot2`, `rjags`, `coda`, `bayesplot`
